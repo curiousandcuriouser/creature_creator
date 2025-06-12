@@ -14,27 +14,27 @@
     <h1>Creature Creator</h1>
     <div>
       <p>Make a </p>
-      <input type="button" class="input js-select-type"></input>
+      <input type="button" class="input js-select-type" data-target="type"></input>
       <p> of a </p>
-      <input type="button" class="input js-select-animal"></input>
+      <input type="button" class="input js-select-animal" data-target="animal"></input>
       <p> living in </p>
-      <input type="button" class="input js-select-location"></input>
+      <input type="button" class="input js-select-location" data-target="location"></input>
       <br>
       <p> used for </p>
-      <input type="button" class="input js-select-use"></input>
+      <input type="button" class="input js-select-use" data-target="use"></input>
       <p> in a </p>
-      <input type="button" class="input js-select-world"></input>
+      <input type="button" class="input js-select-world" data-target="world"></input>
       <p>world.</p>
     </div>
   </div>
   <div>
     <br>
-    <div class="options js-type-options">
+    <div class="options" id="js-type-options">
       <button class="js-create-option">new species</button>
       <button>chimera</button>
       <button>descendent</button>
     </div>
-    <div class="options js-animal-options">
+    <div class="options" id="js-animal-options">
       <button>pig</button>
       <button>cow</button>
       <button>goat</button>
@@ -45,7 +45,7 @@
       <button>ant</button>
       <button>dog</button>
     </div>
-    <div class="options js-location-options">
+    <div class="options" id="js-location-options">
       <button>a farm</button>
       <button>a factory farm</button>
       <button>a laboratory</button>
@@ -53,7 +53,7 @@
       <button>the wilderness</button>
       <button>a circus</button>
     </div>
-    <div class="options js-use-options">
+    <div class="options" id="js-use-options">
       <button>research</button>
       <button>entertainment</button>
       <button>organs</button>
@@ -61,7 +61,7 @@
       <button>flesh</button>
       <button>nothing</button>
     </div>
-    <div class="options js-world-options">
+    <div class="options" id="js-world-options">
       <button>climate-changed</button>
       <button>AI-controlled</button>
       <button>resource-scarce</button>

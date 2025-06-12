@@ -23,7 +23,27 @@ const buttonOptionMap = {
 };
 
 // Show options upon click
-typeButton.addEventListener('click', function() {
-  typeOptions.classList.add('is-selecting');
-  }
+('click', showOptions() {
+  const categoryName = event.target.dataset.target;
+  console.log("Button clicked, its target us:", categoryName)
+
+}
+
 )
+
+// FUNCTIONS
+// Show options for button
+function showOptions(buttonOptions) {
+  buttonOptions.classList.add('is-selecting');
+  console.log("Showing panel:", buttonOptions.id);
+
+  const allButtons = document.querySelectorAll('button[data-target]');
+
+  allButtons.forEach(button => {
+    button.addEventListener('click', function(event) {
+      const clickedButton = event.target;
+      const targetId = clickedButton.dataset.target;
+      const optionsDivToFindId = targetId + 'Options';
+      const optionsDiv = document.getElementById(optionsDivToFindId);
+      
+    })})}

@@ -18,11 +18,11 @@ h1 {
   text-align: center;
 }
 
-button{
+button {
   font-family: "Nunito Sans", sans-serif;
   background-color: rgb(180, 180, 224);
   border-radius: 6px;
-  border: 0 none;
+  border: 2px rgb(99, 29, 228) none;
   padding: 10px;
 }
 

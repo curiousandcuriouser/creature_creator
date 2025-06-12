@@ -38,5 +38,9 @@ p {
   border-radius: 6px;
   border: 1px white solid;
   width: 80px;
-  height: 35px
+  height: 35px;
+}
+
+.options {
+  display: none;
 }

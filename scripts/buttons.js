@@ -14,8 +14,7 @@ useOptions = document.querySelector('.js-use-options');
 worldOptions = document.querySelector('.js-world-options');
 
 // Add click
-
 typeButton.addEventListener('click', function() {
-  alert("Hello, World!");
+  alert("Hello, World!")
   }
-);
+)

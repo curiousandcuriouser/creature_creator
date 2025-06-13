@@ -1,0 +1,5 @@
+[] Figure out image generation
+[] Make image appear on site
+[] Figure out text generation
+[] Figure you selection into prompt
+[] Figure out base prompt

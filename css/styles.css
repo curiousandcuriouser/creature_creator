@@ -3,6 +3,7 @@
   --grey: rgb(66, 66, 66);
   --dark: rgb(0, 25, 48);
   --white: rgb(236, 236, 236);
+  --ocean: rgb(255, 255, 255);
 }
 
 body {
@@ -31,9 +32,12 @@ button {
   background-color: var(--blue);
   border-radius: 6px;
   border: 2px var(--white) solid;
-  padding: 10px;
+  min-height: fit-content;
+  min-width: fit-content;
   font-size: 25px;
   margin: 10px;
+  padding: 5px;
+  color: var(--dark)
 }
 
 p {
@@ -54,9 +58,10 @@ p {
 }
 
 .filled {
-  background-color: var(--blue);
+  color: var(dark);
+  background-color: var(--white);
   border-radius: 6px;
-  border: 2px var(--white) solid;
+  border: 2px var(--blue) solid;
   min-width: fit-content;
 }
 

@@ -1,3 +1,5 @@
+document.addEventListener('DOMContentLoaded', function () {
+
 // Define buttons
 typeButton = document.querySelector('.js-select-type');
 console.log(typeButton);
@@ -22,20 +24,13 @@ const buttonOptionMap = {
   '.js-select-world': '.js-world-options',
 };
 
-// Show options upon click
-('click', showOptions() {
-  const categoryName = event.target.dataset.target;
-  console.log("Button clicked, its target us:", categoryName)
-
-}
-
-)
-
 // FUNCTIONS
 // Show options for button
 function showOptions(buttonOptions) {
   buttonOptions.classList.add('is-selecting');
   console.log("Showing panel:", buttonOptions.id);
+}
+
 
   const allButtons = document.querySelectorAll('button[data-target]');
 
@@ -46,4 +41,5 @@ function showOptions(buttonOptions) {
       const optionsDivToFindId = targetId + 'Options';
       const optionsDiv = document.getElementById(optionsDivToFindId);
       
-    })})}
+    })});
+  });

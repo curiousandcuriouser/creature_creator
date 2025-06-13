@@ -49,6 +49,7 @@ p {
   width: 80px;
   height: 40px;
   cursor: pointer;
+  font-size: 25px;
 }
 
 .options {

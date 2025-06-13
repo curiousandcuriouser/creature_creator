@@ -51,6 +51,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
           if (activePlaceholder) {
               activePlaceholder.value = selectedText;
+              activePlaceholder.classList.add('filled');
               const parentOptionsDiv = clickedOptionButton.closest('.options');
 
               if (parentOptionsDiv) {

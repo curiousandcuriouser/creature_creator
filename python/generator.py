@@ -4,6 +4,7 @@ import google.generativeai as genai
 from PIL import Image
 import io
 import base64
+from google.cloud import aiplatform
 
 load_dotenv()
 
@@ -28,7 +29,7 @@ full_image_prompt = f"{system_prompt}\n\nImage prompt: {user_prompt}"
 try:
     print("Generating image... (This might take a moment)")
 
-    image_response = genai.GenerativeModel('imagen-3.0-generate-002').generate_images(
+    image_response = genai.ImageGenerationModel('imagen-3.0-generate-002').generate_images(
         prompt=full_image_prompt,
         config=image_generation_config
     )
@@ -36,9 +37,8 @@ try:
     image_counter = 0
 
     # Iterate through the generated_images list in the response
-    for generated_image_part in image_response.generated_images
+    for generated_image_part in image_response.generated_images:
         raw_image_bytes = generated_image_part.image.image_bytes
-  
 
         try:
             # Use io.BytesIO to treat the bytes like a file, then open with PIL

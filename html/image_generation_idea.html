@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../css/styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap" rel="stylesheet">
+  <title>Creature Creator</title>
+</head>
+<body>
+  <div class="selection">
+    <h1>Creature Creator</h1>
+    <div>
+      <p>Soon we will live in a</p>
+        <input type="button" class="input js-select-world" data-target="world"></input>
+      <p>world. We have made a</p>
+      <input type="button" class="input js-select-type" data-target="type"></input>
+      <p> of a </p>
+      <input type="button" class="input js-select-animal" data-target="animal"></input>
+      <p> living in </p>
+      <input type="button" class="input js-select-location" data-target="location"></input>
+      <br>
+      <p> used for </p>
+      <input type="button" class="input js-select-use" data-target="use"></input>.
+    </div>
+  </div>
+  <div>
+    <br>
+    <div class="options" id="js-type-options">
+      <button>new species</button>
+      <button>chimera</button>
+      <button>descendent</button>
+    </div>
+    <div class="options" id="js-animal-options">
+      <button>pig</button>
+      <button>chicken</button>
+      <button>salmon</button>
+      <button>octopus</button>
+      <button>cricket</button>
+      <button>dolphin</button>
+      <button>dog</button>
+      <button>sheep</button>
+
+    </div>
+    <div class="options" id="js-location-options">
+      <button>a farm</button>
+      <button>a factory farm</button>
+      <button>a laboratory</button>
+      <button>a home</button>
+      <button>the wilderness</button>
+      <button>an entertainment industry</button>
+    </div>
+    <div class="options" id="js-use-options">
+      <button>research</button>
+      <button>entertainment</button>
+      <button>food</button>
+      <button>sport</button>
+      <button>nothing</button>
+    </div>
+    <div class="options" id="js-world-options">
+      <button>climate-carnaged</button>
+      <button>AI-reliant</button>
+      <button>resource-scarce</button>
+      <button>eco-centric</button>
+    </div>
+  </div>
+  <div>
+    <div class="js-combination-image">
+      <!-- GENERATED IMAGE -->
+    </div>
+    <div>
+      <!-- Add chatbot, or history -->
+    </div>
+  </div>
+
+
+  <script src="../scripts/buttons.js"></script>
+</body>
+</html>

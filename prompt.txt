@@ -1,0 +1,51 @@
+A wildly imaginative 3D rendering of a [ANIMAL]'s [TYPE] in 1000 years, with bizarre and beautiful adaptations to its use for [USE] that defy conventional understanding and challenge the viewer's expectations. The being lives in [LOCATION] in a [WORLD] world. The form is almost unrecognizable as a the original [Animal], with completely alien biological structures and functions. The image background is transparent. Focus on creating a truly unique and memorable form, pushing the boundaries of biological plausibility and creating a creature that is both captivating and unsettling.
+
+>climate-carnaged. 
+In this world, there are a lot of inhabitable areas, and animal welfare is not a priority as farmed animals are abandoned and humans hoard food for themselves. Many turn to insects as protein and animal cruelty increases as humans become more disconnected. There is vast mass extinction. There is famine and drought, mass loss of biodiversity, complete loss of the ice caps, mass sea level rise, have created a dire situation for all living beings.
+
+>AI-reliant
+In this world, humans are using technology to supercharge food production, leaving farmed animals to suffer on a larger scale than ever before. There are multi-storey mega farms with thousands of animals. Gene editing, precision livestock farming, and using AI instead of live animals for research is the norm. Little nature is left. AI has evolved to manage almost every aspect of human lie-governance, climate control, medical care, education, and even the arts. Humanity has become reliant on advanced AI systems to maintain a utopian society. But this utopia runs on a ravenous power supply, far exceeding any energy requirements previously anticipated
+
+>resource-scarce
+Humanity has continued business-as-usual but there have been some attempts to address climate change and redesign our food system. Overall, animals are still used for various reasons and with a changing climate, new, invasive species emerge. There is too little water to go around, food is scarce, but humans continue to exploit animals. It is the pacified design of humancentric thinking. It has lost biodiversity but is  also harmless for humans and stripped of hidden dangers. Nature is allowed to be dangerous, chaotic, poisonous, wild, and uncontrolled where humans do not exist. It will be teaming with lifeforms that are free to evolve in novel ways.
+
+>eco-centric
+Humans have made lab meat, veganism, and sustainable and cruelty-free alternatives to meat, leather and animal products the norm. Climate change is under control and humans know how to feed a growing population in a way that protects animal wellbeing and nature. Former farmland is rewilded. Forests rejuvenate, rivers run clear and wildlife, once on the brink of extinction, flourishes again. Animal sentience is recognised in law and society, and animals are given respect. 
+
+Type:
+>new species
+>chimera
+>descendent
+
+Animal
+>pig
+>chicken
+>salmon
+>octopus
+>dog
+>cricket
+>dolphin
+>horse
+>sheep
+
+Location:
+>a farm
+>a factory farm
+>a laboratory
+>a home
+>the wilderness
+>an entertainment industry
+
+Use:
+>research
+>entertainment
+>food
+>clothing
+>sport
+>nothing, but exist
+
+World:
+>climate-carnaged
+>AI-reliant
+>resource-scarce
+>eco-centric

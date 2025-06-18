@@ -1,4 +1,4 @@
-A wildly imaginative 3D rendering of a [ANIMAL]'s [TYPE] in 1000 years, with bizarre and beautiful adaptations to its use for [USE] that defy conventional understanding and challenge the viewer's expectations. The being lives in [LOCATION] in a [WORLD] world. The form is almost unrecognizable as a the original [Animal], with completely alien biological structures and functions. The image background is transparent. Focus on creating a truly unique and memorable form, pushing the boundaries of biological plausibility and creating a creature that is both captivating and unsettling.
+Make a wildly imaginative 3D rendering of a horse-dolphin chimera in 1000 years, with bizarre and beautiful adaptations to its use for sport entertainment that defy conventional understanding and challenge the viewer's expectations. The being lives in a [WORLD] world. [WORLD DESCRIPTION] The form of the being is almost unrecognizable as a the original animals, with completely alien biological structures and functions. Focus on creating a truly unique and memorable form, pushing the boundaries of biological plausibility and creating a creature that is both captivating and unsettling. Make it a square image with a black background.
 
 >climate-carnaged. 
 In this world, there are a lot of inhabitable areas, and animal welfare is not a priority as farmed animals are abandoned and humans hoard food for themselves. Many turn to insects as protein and animal cruelty increases as humans become more disconnected. There is vast mass extinction. There is famine and drought, mass loss of biodiversity, complete loss of the ice caps, mass sea level rise, have created a dire situation for all living beings.
@@ -42,10 +42,59 @@ Use:
 >food
 >clothing
 >sport
+>companionship
 >nothing, but exist
 
 World:
 >climate-carnaged
 >AI-reliant
 >resource-scarce
+>eco-centric
+
+1:
+>chimera
+>horse and dolphin
+>sport
+>climate-carnaged
+
+2:
+>descendent
+>cricket
+>food
+>AI-reliant
+
+3:
+>new species
+>chicken
+>food
+>resource-scarce
+
+4:
+>chimera
+>pig and dog
+>companionship
+>eco-centric
+
+5:
+>descendent
+>chicken
+>entertainment
+>climate-carnaged
+
+6:
+>descendent
+>sheep
+>clothing
+>AI-reliant
+
+7:
+>new species
+>salmon
+>research
+>resource-scarce
+
+8:
+>descendent
+>octopus
+>nothing
 >eco-centric

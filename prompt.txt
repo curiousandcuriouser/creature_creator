@@ -7,10 +7,13 @@ In this world, there are a lot of inhabitable areas, and animal welfare is not a
 In this world, humans are using technology to supercharge food production, leaving farmed animals to suffer on a larger scale than ever before. There are multi-storey mega farms with thousands of animals. Gene editing, precision livestock farming, and using AI instead of live animals for research is the norm. Little nature is left. AI has evolved to manage almost every aspect of human lie-governance, climate control, medical care, education, and even the arts. Humanity has become reliant on advanced AI systems to maintain a utopian society. But this utopia runs on a ravenous power supply, far exceeding any energy requirements previously anticipated
 
 >resource-scarce
-Humanity has continued business-as-usual but there have been some attempts to address climate change and redesign our food system. Overall, animals are still used for various reasons and with a changing climate, new, invasive species emerge. There is too little water to go around, food is scarce, but humans continue to exploit animals. It is the pacified design of humancentric thinking. It has lost biodiversity but is  also harmless for humans and stripped of hidden dangers. Nature is allowed to be dangerous, chaotic, poisonous, wild, and uncontrolled where humans do not exist. It will be teaming with lifeforms that are free to evolve in novel ways.
+Humanity has continued business-as-usual but there have been some attempts to address climate change and redesign our food system. Overall, animals are still used for various reasons and with a changing climate, new, invasive species emerge. There is too little water to go around, food is scarce, but humans continue to exploit animals. It is the pacified design of humancentric thinking. It has lost biodiversity but is  also harmless for humans and stripped of hidden dangers.
 
 >eco-centric
 Humans have made lab meat, veganism, and sustainable and cruelty-free alternatives to meat, leather and animal products the norm. Climate change is under control and humans know how to feed a growing population in a way that protects animal wellbeing and nature. Former farmland is rewilded. Forests rejuvenate, rivers run clear and wildlife, once on the brink of extinction, flourishes again. Animal sentience is recognised in law and society, and animals are given respect. 
+
+>toxic
+Humans are extinct to to atomic bombs and toxicity.Nature is allowed to be dangerous, chaotic, poisonous, wild, and uncontrolled. It will be teaming with lifeforms that are free to evolve in novel ways. 
 
 Type:
 >new species
@@ -19,13 +22,13 @@ Type:
 
 Animal
 >pig
->chicken
+>chicken - 1
 >salmon
 >octopus
->dog
->cricket
+>dog - 1
+>cricket - 1
 >dolphin
->horse
+>horse - 1
 >sheep
 
 Location:
@@ -47,9 +50,35 @@ Use:
 
 World:
 >climate-carnaged
+1. wolf/sports
+2. beetle/food
+3. 
+4. 
+
+>toxic
+1. chicken/wild
+2. pig/wild
+3.
+4.
+
 >AI-reliant
+1. dog/companion
+2. 
+3. 
+4. 
+
 >resource-scarce
+1. horse/wild
+2. 
+3. 
+4. 
+
 >eco-centric
+1. dog/companionship
+2. 
+3. 
+4. 
+
 
 1:
 >chimera

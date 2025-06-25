@@ -1,5 +1,11 @@
-[] Figure out image generation
+[] Make world image appear center when hover
+[] Make world/animals pages
+[] Make world/animals/conversation pages
+
+25.06: New idea
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [] Make image appear on site
 [] Figure out text generation
 [] Figure you selection into prompt
 [] Figure out base prompt
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
